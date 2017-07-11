@@ -1,0 +1,4 @@
+DirectoryIndex index.st
+AddType application/x-vpm .st
+AddType application/x-vpm .inc
+Action application/x-vpm /stella/libs/stella.cgi
